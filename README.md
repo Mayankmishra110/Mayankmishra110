@@ -17,10 +17,7 @@ Solved 100+ DSA Problems on LeetCode
 Solved 100+ DSA Problems on GFG
 
 🔗 Let's Connect:
-linkedin twitter discord
+[linkedin](https://www.linkedin.com/in/mayankmishracse/) twitter discord
 
 ‍💻 Coding Profile:
-leetcode hackerrank
-
-⚙ Languages and Tools:
-html5 css3 JavaScript reactjs React Native reactrouter reduxjs jquery nodejs json webpack babeljs bootstrap sass tailwindcss material ui git canva netlify heroku github pages visualstudio adobe photoshop microsoft office notion Jira Figma
+[leetcode](https://leetcode.com/Mayank110/)
