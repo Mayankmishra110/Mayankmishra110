@@ -13,6 +13,7 @@ A brief about me:
 - 📫 How to reach me: [Email](kmmay15@gmail.com)
 
 Solved 100+ DSA Problems on [leetcode](https://leetcode.com/Mayank110/)
+
 Solved 100+ DSA Problems on [GFG](https://auth.geeksforgeeks.org/user/kmmay15/)
 
 🔗 Let's Connect:
