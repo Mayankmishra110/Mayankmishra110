@@ -10,7 +10,6 @@ A brief about me:
 - 🌱 I’m currently learning Next.Js
 - 🤔 I’m looking for help with opportunites
 - 💬 Ask me about: Development 
-- 📫 How to reach me: [Email](kmmay15@gmail.com)
 
 Solved 100+ DSA Problems on [leetcode](https://leetcode.com/Mayank110/)
 
