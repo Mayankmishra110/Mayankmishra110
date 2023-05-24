@@ -5,13 +5,14 @@ Hi there  I'm Mayank 👨
 [My Portfolio](https://mayankcseportfolio.netlify.app/)
 
 A brief about me:
-
-- 🔭 I’m currently working on MERN Full stack 
-- 🌱 I’m currently learning Next.Js
+- 🔭 I’m Java Backend Developer
+- 🔭 Well versed with Spring Boot, Spring MVC,JPA,Node.js,Express.js, RESTful APIs
+- 😎 Comfortable with SQl, MySQL, DBMS, CN, SDLC.
+- 🌱 I’m currently working on MERN Full stack too.
 - 🤔 I’m looking for help with opportunites
-- 💬 Ask me about: Development 
+- 💬 Ask me about: Backend-development 
 
-Solved 100+ DSA Problems on [leetcode](https://leetcode.com/Mayank110/)
+Solved 200+ DSA Problems on [leetcode](https://leetcode.com/Mayank110/)
 
 Solved 100+ DSA Problems on [GFG](https://auth.geeksforgeeks.org/user/kmmay15/)
 
