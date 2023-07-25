@@ -12,7 +12,7 @@ A brief about me:
 - 🤔 I’m looking for help with opportunites
 - 💬 Ask me about: Angular and Springboot. 
 
-Solved 200+ DSA Problems on [leetcode](https://leetcode.com/Mayank110/)
+Solved 300+ DSA Problems on [leetcode](https://leetcode.com/Mayank110/)
 
 Solved 100+ DSA Problems on [GFG](https://auth.geeksforgeeks.org/user/kmmay15/)
 
