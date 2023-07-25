@@ -8,9 +8,9 @@ A brief about me:
 - 🔭 I’m Java Backend Developer
 - 🔭 Well versed with Spring Boot, Spring MVC,JPA,Node.js,Express.js, RESTful APIs
 - 😎 Comfortable with SQl, MySQL, DBMS, CN, SDLC.
-- 🌱 I’m currently working on MERN Full stack too.
+- 🌱 I’m currently working on MEAN stack too.
 - 🤔 I’m looking for help with opportunites
-- 💬 Ask me about: Backend-development 
+- 💬 Ask me about: Angular and Springboot. 
 
 Solved 200+ DSA Problems on [leetcode](https://leetcode.com/Mayank110/)
 
