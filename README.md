@@ -5,8 +5,9 @@ Hi there  I'm Mayank 👨
 [My Portfolio](https://mayankcseportfolio.netlify.app/)
 
 A brief about me:
-- 🔭 I’m Java Backend Developer
-- 🔭 Well versed with Spring Boot, Spring MVC,JPA,Node.js,Express.js, RESTful APIs
+- 🔭 I’m a Full stack developer
+- 🔭 Back-end tech Spring Boot, Spring MVC,JPA,Node.js,Express.js, RESTful APIs
+- 😎 Front-end tech - React.js, Redux toolkit, Next.js, Context API
 - 😎 Comfortable with SQl, MySQL, DBMS, CN, SDLC.
 - 🌱 I’m currently working on MEAN stack too.
 - 🤔 I’m looking for help with opportunites
