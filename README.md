@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href= "https://www.linkedin.com/in/mayankmishracse/">Mayank Mishra 💻</a>!
 </h1> 
-<h2 align="center">A passionate Full stack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
+<p align="center">A passionate Full stack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
@@ -82,7 +82,7 @@
         <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
     </a>
  
-   [![Follow me on Twitter](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/mayankkrmishra0)
+   [![Follow me on Twitter](https://img.shields.io/twitter/follow/mayankkrmishra0?style=social)](https://twitter.com/mayankkrmishra0)
 
 
 </p>
