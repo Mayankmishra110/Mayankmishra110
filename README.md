@@ -1,17 +1,11 @@
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href= "https://www.linkedin.com/in/mayankmishracse/">Mayank Kr Mishra 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href= "https://www.linkedin.com/in/mayankmishracse/">Mayank Mishra 💻</a>!
 </h1> 
-<h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
-
-- I am a tech-enthusiast, competent, well-focused full stack developer👨‍💻. I am passionate about building fully functional web-applications.
-- I am well versed with languages as Java, JavaScript, typeScript, SQL.
-- I am proficient in backend technologies like Java,Spring Boot, JPA, Hibernate, Spring security,Node.js.
-- I am skilled in fron-end tech stacks like HTML, CSS, React.js, redux toolkit, React router, Next.js.
+<h2 align="center">A passionate Full stack developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
  <a>
-
  
   💫 About Me:
  
@@ -19,11 +13,10 @@
 - I am proficient in Angular and Spring Boot.
 - 🌱 I’m currently learning **MERN stack**
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
-- I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. <br>
 - 👯 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - 🌐 Have a look at my <a href="https://mayankcseportfolio.netlify.app/" target="_blank">Portfolio</a>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br> 
-<!-- - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br> -->
+<!-- - 🧠 Callme: ***Geek*** or ***TeamWorker*** 😊 <br> -->
 - 📫 Reach me 
  <p align="left">
   <a href="https://www.linkedin.com/in/mayankmishracse" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
