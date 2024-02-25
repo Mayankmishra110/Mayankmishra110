@@ -11,36 +11,19 @@
 - I am well versed with languages as Java, JavaScript, typeScript, SQL.
 - I am proficient in backend technologies like Java,Spring Boot, JPA, Hibernate, Spring security,Node.js.
 - I am skilled in fron-end tech stacks like HTML, CSS, React.js, redux toolkit, React router, Next.js.
-- I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
  <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India"></a>
-      </p>
-       
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  
- <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
-
-
-
-
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Mohammad-Mubarak&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
- <img src="https://img.shields.io/github/followers/Mohammad-Mubarak?label=Followers&style=social" alt="followers-count"> 
-</p>
-
-
- <img align="right" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"  />
  
   💫 About Me:
  
-- 🔭 I’m currently working on **Full stack development**
-- I am proficient in MERN, MEAN,Spring framework.
+- 🔭 I’m currently working as **Full stack developer intern at BuiltDesign**
+- I am proficient in Angular and Spring Boot.
 - 🌱 I’m currently learning **MERN stack**
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
+- I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. <br>
 - 👯 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - 🌐 Have a look at my <a href="https://mayankcseportfolio.netlify.app/" target="_blank">Portfolio</a>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br> 
@@ -71,7 +54,9 @@
 
 <br/>
 <br/>
+
 </div>
+ 
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
@@ -81,58 +66,70 @@
 <img src="https://img.shields.io/badge/SPINGBOOT-4EA94B?style=for-the-badge&logo=springboot&logoColor=white" align="center" alt="mongodb"/>
  <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" align="center" alt="JPA Hibernate"/>
 <br>
+   
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" align="center" width="40" height="40"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="center" alt="mysql" width="40" height="40"/> 
+<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Suman Ghosh</h1>
 
- 
- 
- 
- 
- 
- 
- </div>
-  <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
-<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
-<img src = "https://img.shields.io/badge/NPM-CA4245?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <br/>
-  </div>
+### :woman_technologist: About Me 
+- 👩🏻‍💻 Pronouns: She/Her
+- 💼 I’m currently working as a <strong>Frontend Engineer</strong> at [CRED](cred.club).
+- 📋 I've previously worked as a Software Engineer at [Navi](navi.com) and an MTS at [GeeksforGeeks](geeksforgeeks.org).
+- 🎒 I've done almost 6-7 internships in frontend primarily.
+- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. 
+- 🧭 I love exploring and working both in frontend and backend.
+- 🎭 I love speaking at events and connecting with people.
+- 📫 How to reach me: Check social links below.
+- 📺 Watch my talks on youtube:
+    - [How to crack offers from PBCs | Interview  and Job Hunting Discussed](https://youtu.be/B0bb8q12KOg?si=ue5pL_1lb0tfb0M3)
+    - [Swiggy Clone using HTML, CSS](https://www.youtube.com/live/G4Y9N1Z-IUE?si=18jB9zzPiRQEpFwf)
 
-
-## 📊 Statistics  
+### :hammer_and_wrench: Languages and Tools 
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohammad-Mubarak&theme=2077" width="46%" />
-  <br/>
-  <br/>
-    <br/>
-  <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=Mohammad-Mubarak&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
-</div>
-<br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohammad-Mubarak&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohammad-Mubarak&theme=2077" width="45%" />
-</div>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<div align="center">                                                                                         
-                                                                                                                             
- <h2 align="left">⚡Activity Graph:</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>  
 
-  
-  <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=Mohammad-Mubarak&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
+### :fire: Streaks 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mayankmishra110)](https://git.io/streak-stats)  
+
+### 📈 Github Stats (Amongst top 50%)
+![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Mayankmishra110&show_icons=true&hide=issues,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankmishra110&layout=compact&langs_count=4)
+
+### :coffee: Hit Me Up Here
+<p align="center">
+	<a href="https://github.com/Mayankmishra110" alt="Github" title="github">
+       <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
+    </a>
+    <a href="https://github.com/Mayankmishra110/Mayankmishra110" alt="Github Stars" title="Star Mark Repo">
+        <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
+    </a>
+    <a href="https://www.linkedin.com/in/mayankmishracse/">
+        <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/l_e_o_for_life/">
+        <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
+    </a>
+ 
+   [![Follow me on Twitter](https://img.shields.io/twitter/follow/your_twitter_username?style=social)](https://twitter.com/mayankkrmishra0)
+
+
+</p>
+
+
+
 
  
  
-### ✍️ Random Dev Quote
-  <div align="center">  
-<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
-    </div>  
-
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+ 
+ 
+ 
+ 
+ 
