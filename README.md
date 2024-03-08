@@ -10,7 +10,7 @@
   💫 About Me:
  
 - 🔭 I’m currently working as **Full stack developer intern at BuiltDesign**
-- I am proficient in Angular and Spring Boot.
+- I am proficient in React.Js and Spring Boot.
 - 🌱 I’m currently learning **MERN stack**
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - 👯 I’m looking to collaborate on: **Contribute more to Open Source projects.**
