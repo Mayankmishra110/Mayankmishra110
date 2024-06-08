@@ -10,8 +10,8 @@
   💫 About Me:
  
 - 🔭 I’m currently working as **Full stack developer intern at BuiltDesign**
-- I am proficient in MERN and Next.js
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I am proficient in MERN and Next.js
+- 🌱 I’m currently learning **Next.Js**
 - 💬 Ask me about anything, I am happy to help, **only if the ball is in my court!😉**<br>
 - 👯 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - 🌐 Have a look at my <a href="https://mayankcseportfolio.netlify.app/" target="_blank">Portfolio</a>
