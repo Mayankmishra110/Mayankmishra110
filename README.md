@@ -65,9 +65,14 @@
 ### :fire: Streaks 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mayankmishra110)](https://git.io/streak-stats)  
 
-### 📈 Github Stats (Amongst top 50%)
-![GitHub Stats (Amongst top 50%)](https://github-readme-stats.vercel.app/api?username=Mayankmishra110&show_icons=true&hide=issues,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankmishra110&layout=compact&langs_count=4)
+## 📈 GitHub Stats
+<div style="display: flex;">
+    <div style="margin-right: 10px;">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-panchal&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
+         <img src="https://github-readme-stats.vercel.app/api?username=vivek-panchal&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-panchal&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
+    </div>
+</div>
 
 ### :coffee: Hit Me Up Here
 <p align="center">
