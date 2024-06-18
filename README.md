@@ -62,15 +62,14 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="center" alt="mysql" width="40" height="40"/> 
 
 
-### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mayankmishra110)](https://git.io/streak-stats)  
+
 
 ## 📈 GitHub Stats
 <div style="display: flex;">
     <div style="margin-right: 10px;">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-panchal&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
-         <img src="https://github-readme-stats.vercel.app/api?username=vivek-panchal&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-panchal&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankmishra110&layout=compact&theme=highcontrast" alt="Languages" style="height: 197px;"><br> <br>
+         <img src="https://github-readme-stats.vercel.app/api?username=Mayankmishra110&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="height: 197px;"> <br> <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankmishra110&theme=highcontrast" alt="GitHub Streak Stats" style="height: 190px;">
     </div>
 </div>
 
