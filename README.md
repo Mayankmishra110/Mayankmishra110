@@ -13,7 +13,7 @@
 - 🔭 I am proficient in MERN and Next.js
 - 🌱 I’m currently learning **Next.Js**
 - 👯 I’m looking to collaborate on: **Contribute more to Open Source projects.**
-- 🌐 Have a look at my <a href="[https://mayankcseportfolio.netlify.app/](https://mayank-portfolio-snowy.vercel.app/)" target="_blank">Portfolio</a>
+- 🌐 Have a look at my <a href="https://mayank-portfolio-snowy.vercel.app/" target="_blank">Portfolio</a>
 - ✍️ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br> 
 <!-- - 🧠 Callme: ***Geek*** or ***TeamWorker*** 😊 <br> -->
 - 📫 Reach me 
