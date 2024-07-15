@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=Redux&logoColor=white"  align="center" alt="Redux Toolkit" />
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="Tailwind CSS" />
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 
 <br/>
@@ -53,8 +54,6 @@
 <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="mongodb"/>
-<img src="https://img.shields.io/badge/SPINGBOOT-4EA94B?style=for-the-badge&logo=springboot&logoColor=white" align="center" alt="mongodb"/>
- <img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" align="center" alt="JPA Hibernate"/>
 <br>
    
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" align="center" width="40" height="40"/>  
