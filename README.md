@@ -52,10 +52,11 @@
   <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+ <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="mongodb"/>
 <br>
 	  
-  <div align="center"><h3 align="center">Backend</h3> 
- <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white" align="center" alt="mongodb"/>
+  <div align="center"><h3 align="center">Database</h3> 
+
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" align="center" width="40" height="40"/>  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" align="center" alt="mysql" width="40" height="40"/> 
