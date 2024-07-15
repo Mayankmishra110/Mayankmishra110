@@ -90,7 +90,7 @@
         <img src="https://img.shields.io/badge/For_Personal_Updates-2k?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
     </a>
  
-   [![Follow me on Twitter](https://img.shields.io/twitter/follow/mayankkrmishra0?style=social)](https://twitter.com/mayankkrmishra0)
+   [![Follow me on Twitter](https://img.shields.io/twitter/follow/mayankkrmishra0?style=social)](https://twitter.com/dev_manuss)
 
 
 </p>
