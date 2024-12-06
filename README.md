@@ -9,7 +9,7 @@
  
   💫 About Me:
  
-- 🔭 I’m currently working as **Full stack developer at Webknot**
+- 🔭 I’m currently working as **Software Development Engineer-1 at Webknot**
 - 🔭 I am proficient in MERN and Next.js
 - 🌱 I’m currently learning **Next.Js**
 - 👯 I’m looking to collaborate on: **Contribute more to Open Source projects.**
