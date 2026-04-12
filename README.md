@@ -55,11 +55,7 @@ DevOps      Docker · GitHub Actions · AWS (EC2, RDS, S3) · Vercel · Railway
 
 ---
 
-## Currently
 
-- Building production frontend at WebKnot Technologies, Bengaluru
-- Preparing for Senior Frontend / SDE-2 roles at product companies
-- Solving DSA on [LeetCode](https://leetcode.com/u/mayank110/) daily
 
 ---
 
