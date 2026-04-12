@@ -1,76 +1,70 @@
-# Hi there 👋 I'm Mayank Mishra
+<div align="center">
 
-<h3 align="center">Full Stack Engineer | React • Next.js • TypeScript • Spring Boot | Building scalable production systems</h3>
+# Mayank Kumar Mishra
+### Senior Software Engineer · Full Stack · React · Next.js · Node.js
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayankmishracse/" target="_blank">LinkedIn</a> •
-  <a href="https://mayank-portfolio-snowy.vercel.app/" target="_blank">Portfolio</a> •
-  <a href="mailto:kmmay15@gmail.com">Email</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayankmishracse-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankmishracse/)
+[![Gmail](https://img.shields.io/badge/Gmail-kmmay15@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kmmay15@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mayank110-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mayank110/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mayank--portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mayank-portfolio-snowy.vercel.app/)
 
----
-
-## 🚀 About Me
-
-* 💼 Software Development Engineer with production experience building scalable web and mobile products
-* ⚡ Strong in **React, Next.js, TypeScript, Redux, API integration, performance optimization**
-* 🧠 Expanding into **backend systems, Spring Boot, PostgreSQL, and AI-integrated applications**
-* 🔍 Interested in **system design, product engineering, and real-world architecture**
-* 🌱 Currently focused on **Full Stack + AI engineering growth**
-* 🤝 Open to collaboration on impactful products and open-source contributions
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-### Frontend
+Senior Software Engineer at **WebKnot Technologies**, promoted from intern to senior in 1.5 years. I build production-grade B2B and B2C platforms — from multi-role SaaS architecture to real-time AI-driven features and cross-platform mobile delivery.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge\&logo=redux\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+I care about engineering systems that are maintainable, testable, and defensible — not just functional.
 
 ---
 
-## 📌 Current Focus
+## What I've shipped
 
-* Building production-grade full stack applications
-* Deepening backend architecture skills
-* Exploring AI product integration (LLMs, RAG, LangChain)
-* Writing cleaner scalable frontend systems
+**Career Connect** — B2B SaaS edtech platform · 4 user roles (Super Admin, Admin, Instructor, Student) · domain-layered React + Next.js frontend · NestJS/Spring Boot backend · Jest + RTL + MSW testing baseline established team-wide
 
----
+**PrepMeToWork** — B2C job-seeker platform · Stripe subscription billing · LiveKit real-time AI mock interviews · Monaco Editor coding challenges · Capacitor-packaged for Play Store + App Store · [Published on both stores]
 
-## 📈 GitHub Stats
+**KAVACH AI** — B2B parental monitoring platform · Sold to paying clients · Electron desktop agent + SSE real-time dashboard + PWA · Turborepo monorepo across web, desktop, and mobile · [Live →](https://kavach-core-web-appss.vercel.app/)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankmishra110&theme=highcontrast" />
-</p>
+**Omron Monitoring System** — Industrial IoT sensor dashboard · Led 4-person frontend team · Real-time device telemetry · Shipped ahead of schedule
 
 ---
 
-## 📫 Connect With Me
+## Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mayankmishracse" target="_blank">LinkedIn</a>  
-  <br/>
-  <a href="mailto:kmmay15@gmail.com">Email</a>  
-  <br/>
-  <a href="https://github.com/Mayankmishra110">GitHub</a>
-</p>
+```
+Frontend    React.js · Next.js (App Router + Pages Router) · TypeScript · Tailwind CSS
+Backend     Node.js · NestJS · Spring Boot · REST APIs · PostgreSQL
+Real-time   SSE · LiveKit · WebSockets
+Platform    Electron · Capacitor (iOS + Android) · PWA · Turborepo monorepo
+Payments    Stripe (subscriptions + webhooks)
+Testing     Jest · React Testing Library · MSW · Husky · lint-staged
+DevOps      Docker · GitHub Actions · AWS (EC2, RDS, S3) · Vercel · Railway
+```
 
 ---
 
-⭐ If you find my repositories useful, feel free to explore and connect.
+## Recognition
+
+- 🏆 **Impactor of the Quarter** — WebKnot Technologies (2025)
+- ⭐ **Fantastic Five Award** — WebKnot Technologies (2024)
+- 🎯 **Spot Award** — WebKnot Technologies (2024)
+- 📋 **Founder Recommendation** — endorsed by Founder, WebKnot Technologies · [View on LinkedIn](https://www.linkedin.com/in/mayankmishracse/details/recommendations/)
+
+---
+
+## Currently
+
+- Building production frontend at WebKnot Technologies, Bengaluru
+- Preparing for Senior Frontend / SDE-2 roles at product companies
+- Solving DSA on [LeetCode](https://leetcode.com/u/mayank110/) daily
+
+---
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayankmishra110&theme=dark&hide_border=true)](https://github.com/Mayankmishra110)
+
+</div>
