@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mayankmishracse-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayankmishracse/)
 [![Gmail](https://img.shields.io/badge/Gmail-kmmay15@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kmmay15@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-mayank110-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/mayank110/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mayank--portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://mayank-portfolio-snowy.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mayank--portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.mayankbuilt.com/)
 
 </div>
 
