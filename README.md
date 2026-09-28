@@ -35,7 +35,7 @@ I care about engineering systems that are maintainable, testable, and defensible
 ## Stack
 
 ```
-Frontend    React.js · Next.js (App Router + Pages Router) · TypeScript · Tailwind CSS
+Frontend    React-Native · React.js · Next.js (App Router + Pages Router) · TypeScript · Tailwind CSS
 Backend     Node.js · NestJS · Spring Boot · REST APIs · PostgreSQL
 Real-time   SSE · LiveKit · WebSockets
 Platform    Electron · Capacitor (iOS + Android) · PWA · Turborepo monorepo
@@ -48,7 +48,7 @@ DevOps      Docker · GitHub Actions · AWS (EC2, RDS, S3) · Vercel · Railway
 
 ## Recognition
 
-- 🏆 **Impactor of the Quarter** — WebKnot Technologies (2025)
+- 🏆 **Impactor of the Quarter** — WebKnot Technologies (2026)
 - ⭐ **Fantastic Five Award** — WebKnot Technologies (2024)
 - 🎯 **Spot Award** — WebKnot Technologies (2024)
 - 📋 **Founder Recommendation** — endorsed by Founder, WebKnot Technologies · [View on LinkedIn](https://www.linkedin.com/in/mayankmishracse/details/recommendations/)
